@@ -2,4 +2,4 @@
 
 內容待補...
 
-試做網站連結:
+試做網站連結: https://joshuatsai013.github.io/HTMLnote.github.io/Basic/
