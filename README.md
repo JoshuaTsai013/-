@@ -1,1 +1,2 @@
-# - All code is from codecademy course: Learn HTML
+
+All code is from codecademy course: Learn HTML
