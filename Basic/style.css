@@ -21,9 +21,13 @@ body {
     padding: 0;
     margin: 0;
   }
-  
   li {
-    color: #FFF;
+    display: inline-block;
+    margin: 0;
+    padding: 20px 20px 10px 50px;
+  }
+  .active {
+    color: #88CCF1;
     display: inline-block;
     font-family: 'Oxygen', sans-serif;
     font-size: 24px;
@@ -33,12 +37,16 @@ body {
     padding: 20px 20px 10px 50px;
     text-transform: uppercase;
   }
-  
-  .active {
-    color: #88CCF1;
-  }
   .inactive{
     color: #FFF;
+    display: inline-block;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 20px 20px 10px 50px;
+    text-transform: uppercase;
   }
   /* Table */
   
